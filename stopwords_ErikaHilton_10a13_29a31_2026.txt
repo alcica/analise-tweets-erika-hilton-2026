@@ -1,0 +1,39 @@
+A planilha de 56 top tuites, ordenada pela taxa de engajamento, teve sua coluna de texto de posts lançada diretamente no Voyant Tools, sem tratamento prévio.
+
+Este primeiro momento ajuda a identificar as palavras a serem ignoradas na análise, porque são apenas conectivos ou pronomes cuja repetição não corrobora a análise textual.
+
+​​Cirus em 50 termos foi a primeira referência para fazer a seguinte lista de stopwords. 
+a
+ao
+as
+com
+como
+da
+de
+do
+e
+em
+essa
+esse
+https
+isso
+já
+mas
+na
+no
+o
+os
+ou
+para
+por
+pra
+q
+que
+se
+só
+t.co
+tá
+um
+uma
+dos
+​Mantivemos os advérbios e verbos.
