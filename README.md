@@ -18,6 +18,6 @@ Devido a pouca integridade dos dados coletados com a query Comissão da Mulher e
 
 Desta forma, apenas os dados oriundos da query Erika Hilton passaram por processamentos de anonimização, eleição de variáveis, ordenação dos 55 top tweets segundo a métrica criada como "engajamento total", reunindo as curtidas, respostas, citações, repostagens e visualizações.  (arquivo: 55_Xtopposts_erikahilton_10a13_29a31_março2026.ods).  
 
-Somente os dados relativos à query Erika Hilton sofreram processamento (Voyant e Gephi) e alguns dados processados encontram-se disponíveis. (arquivos: EH_contagem_de_termos.ods, EH_nuvem_de_palavras.jpg, stopwords_ErikaHilton_10a13_29a31_2026.txt )
+Somente os dados relativos à query Erika Hilton sofreram processamento (Voyant e Gephi) e alguns dados processados encontram-se disponíveis. (arquivos: EH_contagem_de_termos.ods, EH_nuvem_de_palavras.jpg) 
 
-Para as tarefas de processamento semântico, disponibilizamos também o conteúdo dos top 55 posts segundo o critério de engajamento total, a lista de stopwords (stopwords_ErikaHilton_10a13_29a31_2026.txt)  e a lista de termos que compuseram a categoria trans_related. (EH_trans_related_category.txt)
+Para as tarefas de processamento semântico dos top 55 posts segundo o critério de engajamento total, disponibilizamos a lista de stopwords (stopwords_ErikaHilton_10a13_29a31_2026.txt)  e a lista de termos que compuseram a categoria trans_related. (EH_trans_related_category.txt)
